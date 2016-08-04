@@ -1,0 +1,14 @@
+{
+  "appname": "innovativehealthadminapp3",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader CategoryReader AddressAdmin OrderReader MeAdmin MeCreditCardAdmin",
+  "clientid": "FFFEEE8E-744B-4877-AD4C-D053E4F7FDBA",
+  "buyerid": "VendorA",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
